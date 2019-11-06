@@ -2,8 +2,8 @@ let name = "Nacer";
 
 function greet() {
   let age = 25;
-  console.log(name);
+  let name = "Linda";
+  console.log(name, age);
 }
 
-console.log(age);
 greet();
