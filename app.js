@@ -1,7 +1,9 @@
-let name ="Nacer"
+let name = "Nacer";
 
 function greet() {
- console.log(name);
+  let age = 25;
+  console.log(name);
 }
 
+console.log(age);
 greet();
